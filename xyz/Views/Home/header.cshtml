@@ -1,0 +1,47 @@
+﻿@model xyz.Models.HeaderModel
+
+<header>
+    <form asp-action="header" asp-controller="home" method="post">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <input asp-for="name" placeholder="name" />
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <input asp-for="home" placeholder="home" />
+                            @*<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>*@
+                        </li>
+                        <li class="nav-item">
+                            <input asp-for="privacy" placeholder="privacy" />
+                            @*<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>*@
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        @for (int i = 0; i < Model.colour.Count; i++)
+        {
+            <table>
+                <tr>
+                    <td><input type="radio" asp-for="@Model.Selectedcolor" value="@Model.colour[i].Id" /></td>
+                    <td>
+                        <label asp-for="@Model.colour[i].Id">@Model.colour[i].name</label>
+                        
+                        <input type="hidden" asp-for="@Model.colour[i].Id" />
+                    </td>
+                    
+                </tr>
+            </table>
+            
+        }
+
+
+
+        <div><input type="submit" value="submit" /></div>
+    </form>
+   
+</header>

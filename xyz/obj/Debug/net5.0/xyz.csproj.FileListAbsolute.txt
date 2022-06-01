@@ -1,0 +1,126 @@
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.exe
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.deps.json
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.runtimeconfig.json
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.runtimeconfig.dev.json
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.dll
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\ref\xyz.dll
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.pdb
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.Views.dll
+C:\Users\admin\source\repos\xyz\xyz\bin\Debug\net5.0\xyz.Views.pdb
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.AssemblyInfo.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\staticwebassets\xyz.StaticWebAssets.Manifest.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\staticwebassets\xyz.StaticWebAssets.xml
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\scopedcss\bundle\xyz.styles.css
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.TagHelpers.input.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.TagHelpers.output.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.RazorCoreGenerate.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\Home\header.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.RazorTargetAssemblyInfo.cs
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.Views.pdb
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.dll
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\ref\xyz.dll
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.pdb
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.genruntimeconfig.cache
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.csproj.CopyComplete
+C:\Users\admin\source\repos\xyz\xyz\obj\Debug\net5.0\xyz.csproj.AssemblyReference.cache
+E:\Projects\xyz\xyz\bin\Debug\net5.0\appsettings.Development.json
+E:\Projects\xyz\xyz\bin\Debug\net5.0\appsettings.json
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.exe
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.deps.json
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.runtimeconfig.json
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.runtimeconfig.dev.json
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.dll
+E:\Projects\xyz\xyz\bin\Debug\net5.0\ref\xyz.dll
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.pdb
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.Views.dll
+E:\Projects\xyz\xyz\bin\Debug\net5.0\xyz.Views.pdb
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.csproj.AssemblyReference.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.AssemblyInfoInputs.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.AssemblyInfo.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.csproj.CoreCompileInputs.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.RazorAssemblyInfo.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.RazorAssemblyInfo.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\staticwebassets\xyz.StaticWebAssets.Manifest.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\staticwebassets\xyz.StaticWebAssets.xml
+E:\Projects\xyz\xyz\obj\Debug\net5.0\scopedcss\bundle\xyz.styles.css
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.TagHelpers.input.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.TagHelpers.output.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.RazorCoreGenerate.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\Home\header.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.RazorTargetAssemblyInfo.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.RazorTargetAssemblyInfo.cs
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.Views.pdb
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.dll
+E:\Projects\xyz\xyz\obj\Debug\net5.0\ref\xyz.dll
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.pdb
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.genruntimeconfig.cache
+E:\Projects\xyz\xyz\obj\Debug\net5.0\xyz.csproj.CopyComplete
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\appsettings.Development.json
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\appsettings.json
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.exe
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.deps.json
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.runtimeconfig.json
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.runtimeconfig.dev.json
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.dll
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\ref\xyz.dll
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.pdb
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.Views.dll
+E:\Projects\Dynamic Header Mvc\xyz\bin\Debug\net5.0\xyz.Views.pdb
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.csproj.AssemblyReference.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.AssemblyInfoInputs.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.AssemblyInfo.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.csproj.CoreCompileInputs.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.RazorAssemblyInfo.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.RazorAssemblyInfo.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\staticwebassets\xyz.StaticWebAssets.Manifest.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\staticwebassets\xyz.StaticWebAssets.xml
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\scopedcss\bundle\xyz.styles.css
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.TagHelpers.input.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.TagHelpers.output.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.RazorCoreGenerate.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\Home\header.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.RazorTargetAssemblyInfo.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.RazorTargetAssemblyInfo.cs
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.Views.pdb
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.dll
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\ref\xyz.dll
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.pdb
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.genruntimeconfig.cache
+E:\Projects\Dynamic Header Mvc\xyz\obj\Debug\net5.0\xyz.csproj.CopyComplete
