@@ -71,7 +71,7 @@ namespace xyz.Controllers
             }
             HeaderModel headerModel = new HeaderModel()
             {
-                name = "xyz",
+                name = "ABC",
                 home = "home",
                 privacy = "privacy",
                 colorName="White"
